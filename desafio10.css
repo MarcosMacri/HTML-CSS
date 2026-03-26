@@ -7,9 +7,9 @@ body{
 
 header{
     background: linear-gradient(
-        rgb(51, 192, 133),
-        rgb(1, 179, 87),
-        rgb(1, 119, 58)
+        rgb(143, 51, 192),
+        rgb(140, 1, 179),
+        rgb(119, 1, 101)
     );
     padding: 100px 0 10px 0;
     margin: 0;
